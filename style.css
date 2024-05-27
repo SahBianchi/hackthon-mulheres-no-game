@@ -1,0 +1,100 @@
+/* Estilo geral */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background-color: #1b1127;
+    color: white;
+  }
+
+  ul{
+    list-style: none;
+    color: #fff;
+  }
+
+  a{
+    text-decoration: none;
+    color: #fff;
+  }
+
+  
+
+  main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2em;
+  }
+  
+  section {
+    background-color: #1b1127;
+    padding: 2em;
+    width: 900px;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .card {
+    margin: 20px;
+    width: 300px;
+    background-color: #3b1751;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card img {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    float: right;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+    clear: both;
+  }
+  
+  /* Estilo para a seção de cursos */
+  
+  .cursos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .cursos li {
+    margin: 20px;
+    width: calc(33.33% - 20px);
+  }
+  
+  .cursos h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .cursos button {
+    width: 100%;
+  }
+  
