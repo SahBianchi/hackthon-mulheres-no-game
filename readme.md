@@ -20,6 +20,6 @@ Samantha Bianchi Desenvolvedora Front-End
 
 Jessica Pires - Designer Gráfica
 
-Danisa
+Danisa Silva - Negócios
 
-Beatriz
+Beatriz Karoline - Especilista em Jogos
