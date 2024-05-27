@@ -34,7 +34,7 @@
     background-color: #1b1127;
     padding: 2em;
     width: 900px;
-    border: 1px solid #ddd;
+    /* border: 1px solid #ddd; */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   }
   
